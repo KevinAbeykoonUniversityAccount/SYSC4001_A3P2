@@ -11,7 +11,7 @@
 
 
 ## Test Cases  
-All the test cases listed below passed successfully.
+All the test cases listed below passed successfully. Test folders are listed under the exams directory.
 
 **Test 1**:
 This test tests the directory scan: sorting the files alphabetically and loading no duplicates into the shared_t obj. You can print out the files field to test this.
